@@ -35,6 +35,11 @@ requirements:
     - perl-try-tiny
   run:
     - perl
+    - perl-data-optlist
+    - perl-module-runtime
+    - perl-module-implementation
+    - perl-package-stash
+    - perl-try-tiny
 
 test:
   imports:
